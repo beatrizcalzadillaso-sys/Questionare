@@ -1,4 +1,32 @@
 <resources>
     <string name="app_name">Questionare</string>
     <string name="presentation">Se el primero en alcanzar la maxima puntuacion en este increible questionario</string>
+    <string name="q1">Pregunta 1:\nEn Pokemon, qué pokemon acompaña principalmente a Ash?</string>
+    <string name="rb1_a1">Meowth</string>
+    <string name="rb1_a2">Eevee</string>
+    <string name="rb1_a3">Pickachu</string>
+    <string name="rb1_a4">Jigglypuff</string>
+    <string name="q2">En Hazbin Hotel, cual es el principal objetivo del hotel?</string>
+    <string name="rb2_a1">Entrenar demonios</string>
+    <string name="rb2_a2">Vender almas</string>
+    <string name="rb2_a3">Rehabilitar pecadores</string>
+    <string name="rb2_a4">Organizar fiestas</string>
+    <string name="q3">En Ataque de los Titanes, como se llama el protagonista?</string>
+    <string name="rb3_a1">Levy</string>
+    <string name="rb3_a2">Armin</string>
+    <string name="rb3_a3">Reiner</string>
+    <string name="rb3_a4">Eren</string>
+    <string name="q4">En Bienvenido a la escuela demoiaca, Iruma-kun, como se llama el rey demonio perdido?</string>
+    <string name="rb4_a1">Barbatos Bachiko</string>
+    <string name="rb4_a2">Asmodeus Amarilys</string>
+    <string name="rb4_a3">Azazel Henri</string>
+    <string name="rb4_a4">Delkira</string>
+    <string name="btn1">Siguiente</string>
+    <string name="q5">En Ascenso de un Raton de Biblioteca, cual es el principal objetivo de Myne?</string>
+    <string name="rb5_a1">Conseguir una gran espada</string>
+    <string name="rb5_a2">Poder leer y crear libros</string>
+    <string name="rb5_a3">Convertirse en guerrera</string>
+    <string name="rb5_a4">Criar Pokemon</string>
+    <string name="btn_reset">Reiniciar</string>
+    <string name="btn_start">Empezar</string>
 </resources>
